@@ -1,6 +1,6 @@
 # SAND optimization of fluid viscous dampers (FVDs)  
 
-Size and placement of fluid viscous dampers with a simultaneous analysis and design (SAND) optimization approach.   
+Python code for size and placement of fluid viscous dampers with a simultaneous analysis and design (SAND) optimization approach.   
 
 Code for reproducing the numerical results of the first example discussed in:   
 > Pollini N. (2023). On simultaneous analysis and design optimization for seismic retrofitting with fluid viscous dampers. Structural and Multidisciplinary Optimization. 
